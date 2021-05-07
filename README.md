@@ -1,7 +1,11 @@
-### print('Ñ')
-
 # ![green_divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
-Here are some ideas to get you started:
+
+### <code>print('Hello there!')</code>
+
+🤖 Electronic Engineer Student at [Escuela Colombia de Ingeniería](https://www.escuelaing.edu.co/es/programas/ingenieria-de-electronica/) <br/>
+📄 My [LinkedIn](https://www.linkedin.com/in/andresnunez-5a47a41b8/) profile <br/>
+🏕 [freeCodeCamp](https://www.freecodecamp.org/andres_camilo) certifications and projects <br/> 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
