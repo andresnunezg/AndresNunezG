@@ -3,13 +3,12 @@
 ### <code>print('Hello there!')</code>
 
 🤖 Electronic Engineer Student at [Escuela Colombia de Ingeniería](https://www.escuelaing.edu.co/es/programas/ingenieria-de-electronica/) <br/>
-📄 My [LinkedIn](https://www.linkedin.com/in/andresnunez-5a47a41b8/) profile <br/>
 🏕 [freeCodeCamp](https://www.freecodecamp.org/andres_camilo) certifications and projects <br/> 
 
+## 📫 Where and How to reach me
+📄 My [LinkedIn](https://www.linkedin.com/in/andresnunez-5a47a41b8/) profile <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on improve every day my skills as developer
+- 🌱 I’m currently learning data analyis on Python JupyterNotebooks
+- 🌎 I’m looking to collaborate on data projects
+- 💬 Ask me about everything i can help you 🇲🇽 / 🇬🇧
