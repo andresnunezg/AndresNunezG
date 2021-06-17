@@ -2,13 +2,21 @@
 
 ### <code>print('Hello there!')</code>
 
-🤖 Electronic Engineer Student at [Escuela Colombia de Ingeniería](https://www.escuelaing.edu.co/es/programas/ingenieria-de-electronica/) <br/>
-🏕 [freeCodeCamp](https://www.freecodecamp.org/andres_camilo) certifications and projects <br/> 
+```python
+  andres_nunez = {
+      code: ['Python', 'JavaScript', 'HTML', 'CSS'],
+      tools: ['Django', 'Flask', 'SQL'],
+      profession: ['Electronic Engineer', 'Trainee Software Engineer'],
+      languages: ['Spanish 🇲🇽', 'English 🇬🇧']
+  }
+```
+<h4 align="left">📫 Connect with me: <a href="https://www.linkedin.com/in/andresnunez-5a47a41b8/">LinkedIn!</a></h4>
+<h4>💬 Ask me about everything i can help you</h4>
+<h4>🔭 I'm currently working on improve everyday  my skills as developer<h4>
 
-- 🔭 I’m currently working on improve every day my skills as developer
-- 🌱 I’m currently learning data analyis on Python JupyterNotebooks
-- 🌎 I’m looking to collaborate on python projects
-- 💬 Ask me about everything i can help you 🇲🇽 / 🇬🇧
-
-### 📫 Where and How to reach me
-📄 My [LinkedIn](https://www.linkedin.com/in/andresnunez-5a47a41b8/) profile <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresNunezG)](https://github.com/anuraghazra/github-readme-stats)
+  
+<h2>📗 Latest blog posts</h2>
+  <ul>
+    <li><a href="#">Hallar Pi con Python</a></li>
+  </ul>
