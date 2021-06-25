@@ -14,14 +14,6 @@
 <h4>💬 Ask me about everything i can help you</h4>
 <h4>🔭 I'm currently working on improve everyday  my skills as developer<h4>
  
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresNunezG"></img>
-</p>  
-  
-<p align="center">
-<img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresNunezG"></img> 
-</p>
-  
 <h2>📗 Latest blog posts</h2>
   <ul>
     <li><a href="#">Hallar Pi con Python</a></li>
@@ -29,4 +21,12 @@
     <li></li>
     <li></li>
     <li></li>
-  </ul>
+  </ul>  
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresNunezG"></img>
+</p>  
+  
+<p align="center">
+<img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresNunezG"></img> 
+</p>
