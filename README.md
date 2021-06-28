@@ -17,7 +17,7 @@
 <h2>📗 Latest blog posts</h2>
   <ul>
     <li><a href="#">Hallar Pi con Python</a></li>
-    <li></li>
+    <li><a href="#">Terminal Handbook</a></li>
     <li></li>
     <li></li>
     <li></li>
