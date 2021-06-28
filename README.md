@@ -4,8 +4,8 @@
 
 ```python
   andres_nunez = {
-      code: ['Python', 'JavaScript', 'HTML', 'CSS'],
-      tools: ['Django', 'Flask', 'SQL'],
+      tools_a: ['Python', 'JavaScript', 'HTML', 'CSS'],
+      tools_b: ['Django', 'Flask', 'SQL'],
       profession: ['Electronic Engineer', 'Trainee Software Engineer'],
       languages: ['Spanish 🇲🇽', 'English 🇬🇧']
   }
