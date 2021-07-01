@@ -17,8 +17,8 @@
 <h2>📗 Latest blog posts</h2>
   <ul>
     <li><a href="#">Hallar Pi con Python</a></li>
-    <li><a href="#">Terminal Handbook</a></li>
-    <li></li>
+    <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/Terminal">Terminal Handbook</a></li>
+    <li <a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/PythonAlgoritmosPOO">POO y Algoritmos con Python</li>
     <li></li>
     <li></li>
   </ul>  
