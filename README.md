@@ -5,7 +5,7 @@
 ```python
   andres_nunez = {
       tools_a: ['Python', 'JavaScript', 'HTML', 'CSS'],
-      tools_b: ['Django', 'Flask', 'SQL'],
+      tools_b: ['ReactJs', 'Django', 'Flask', 'SQL'],
       profession: ['Electronic Engineer', 'Trainee Software Engineer'],
       languages: ['Spanish 🇲🇽', 'English 🇬🇧']
   }
@@ -20,7 +20,7 @@
     <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/Terminal">Terminal Handbook</a></li>
     <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/PythonAlgoritmosPOO">POO y Algoritmos con Python</a></li>
     <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/JavaScriptBasico">JavaScript Básico</a></li>
-    <li></li>
+    <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/JavascriptAsincronismo">Asincronismo Javascript</a></li>
   </ul>  
   
 <p align="center">
