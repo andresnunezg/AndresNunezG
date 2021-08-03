@@ -5,7 +5,7 @@
 ```python
   andres_nunez = {
       tools_a: ['Python', 'JavaScript', 'HTML', 'CSS'],
-      tools_b: ['ReactJs', 'Django', 'Flask', 'SQL'],
+      tools_b: ['ReactJs', 'FastAPI', 'SQL'],
       profession: ['Electronic Engineer', 'Trainee Software Engineer'],
       languages: ['Spanish 🇲🇽', 'English 🇬🇧']
   }
