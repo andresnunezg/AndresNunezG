@@ -13,6 +13,10 @@
 <h4 align="left">📫 Connect with me: <a href="https://www.linkedin.com/in/andresnunez-5a47a41b8/">LinkedIn!</a></h4>
 <h4>💬 Ask me about everything i can help you</h4>
 <h4>🔭 I'm currently working on improve everyday  my skills as developer<h4>
+  
+<p align="center">
+<img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresNunezG&layout=compact&theme=buefy"></img> 
+</p>
  
 <h2>📗 Latest blog posts</h2>
   <ul>
@@ -22,7 +26,3 @@
     <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/JavaScriptBasico">JavaScript Básico</a></li>
     <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/JavascriptAsincronismo">Asincronismo Javascript</a></li>
   </ul>  
-  
-<p align="center">
-<img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresNunezG"></img> 
-</p>
