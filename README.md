@@ -10,7 +10,7 @@
       languages: ['Spanish 🇲🇽', 'English 🇬🇧']
   }
 ```
-<h3 align="left">🌎 Visit my <a href="https://andresnunezg.github.io/portfolio/">website</a></h3>
+<h3 align="left">🌎 Visit my <a href="https://andresnunezg.github.io/portfolio/" target="_blank" rel="noreferrer">website</a></h3>
 <h4 align="left">📫 Connect with me: <a href="https://www.linkedin.com/in/andresnunez-5a47a41b8/">LinkedIn!</a></h4>
 <h4>💬 Ask me about everything i can help you</h4>
 <h4>🔭 I'm currently working on improve everyday  my skills as developer<h4>
