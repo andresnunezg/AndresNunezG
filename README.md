@@ -21,7 +21,7 @@
  
 <h2>📗 Latest blog posts</h2>
   <ul>
-    <li><a href="#">Hallar Pi con Python</a></li>
+    <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/React">React Handbook</a></li>
     <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/Terminal">Terminal Handbook</a></li>
     <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/PythonAlgoritmosPOO">POO y Algoritmos con Python</a></li>
     <li><a href="https://github.com/AndresNunezG/The-A-Blog/tree/main/handbook/JavaScriptBasico">JavaScript Básico</a></li>
